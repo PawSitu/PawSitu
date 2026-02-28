@@ -15,7 +15,7 @@ I am third-year student of Computer Science and Applied Mathematics at the Siles
 ### 💻 Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![C++]([ht](https://img.shields.io/badge/-cpp-black?style=for-the-badge&logo=cpp)
+![C++]([ht](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
 ### 🛠 Technologies & Tools
