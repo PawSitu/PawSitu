@@ -26,7 +26,7 @@ I am third-year student of Computer Science and Applied Mathematics at the Siles
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawSitu&show_icons=true&theme=dark)
 
 ## 📫 Contact Me
 
