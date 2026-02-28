@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Paweł Sitek
 
-<!--
-**PawSitu/PawSitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Passionate about programming and software development  
+- 🎯 Interested in building useful and efficient applications  
+- 📚 Constantly learning new technologies  
+- 🌱 Currently improving my skills in .NET and JavaScript
+
+## 🚀 Skills
+
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![C++]([ht](https://img.shields.io/badge/-cpp-black?style=for-the-badge&logo=cpp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+
+### 🛠 Technologies & Tools
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+
+## 📫 Contact Me
+
+- 📧 Email: pawelsitek487@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pawe%C5%82-sitek-a406a531a/
+
+---
+
+⭐ Feel free to explore my repositories and leave a star if you find something useful!
