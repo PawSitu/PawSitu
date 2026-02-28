@@ -24,10 +24,6 @@ I am third-year student of Computer Science and Applied Mathematics at the Siles
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawSitu&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ## 📫 Contact Me
 
 - 📧 Email: pawelsitek487@gmail.com
