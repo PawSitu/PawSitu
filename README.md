@@ -1,43 +1,63 @@
 # Hi there 👋 I'm Paweł Sitek
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I am a Software Engineer Intern at **Visa** and a fourth-year student of Computer Science and Applied Mathematics at the Silesian University of Technology. 
+
+<p align="left">
+  <a href="(https://www.linkedin.com/in/pawe%C5%82-sitek-a406a531a/)" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pawelsitek487@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## 👨‍💻 About Me
-I am Software Engineer Intern at Visa
-and a fourth-year student of Computer Science and Applied Mathematics at the Silesian University of Technology.
-- 💡 Passionate about programming and software development  
-- 🎯 Interested in building useful and efficient applications  
-- 📚 Constantly learning new technologies  
-- 🌱 Currently improving my skills in .NET and JavaScript
+- 💻 I specialize in **C# / .NET** ecosystem, focusing on Web APIs, clean code practices, and modern architecture.
+- 🚀 Currently working extensively with **.NET 9**, **Entity Framework Core**, and containerized databases.
+- 🎯 Passionate about building highly efficient, scalable applications and monitoring their performance.
+- 🌱 Continuously expanding my knowledge in full-stack development (React, JavaScript) and AI models integration.
 
-## 🚀 Skills
+## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
+### Backend Development
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
-
-### 🛠 Technologies & Tools
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=grafana)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=sqlite)
-![Adobe](https://img.shields.io/badge/-Adobe-black?style=for-the-badge&logo=adobe)
+
+### DevOps, Monitoring & Tools
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-black?style=for-the-badge&logo=microsoftoffice)
-![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine%205-black?style=for-the-badge&logo=unrealengine)
-## 📫 Contact Me
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=grafana)
+![Splunk](https://img.shields.io/badge/-Splunk-black?style=for-the-badge&logo=splunk)
 
-- 📧 Email: pawelsitek487@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/pawe%C5%82-sitek-a406a531a/
+*Other tools: Entity Framework Core, Serilog, WPF (MVVM), Visual Studio 2022*
 
----
+## 🚀 Featured Projects
 
-⭐ Feel free to explore my repositories and leave a star if you find something useful!
+Here are some of the key projects I've been working on:
+
+* 🚛 **Tanio-Szybko-i-Solidnie-Trans** – An open-source transport fleet management system built with .NET 9, Entity Framework Core 9, PostgreSQL, and JavaScript.
+* 🏋️ **Gym Booking System** – A comprehensive REST API for managing gym reservations, leveraging .NET 9, EF Core, PostgreSQL in Docker, and a React frontend.
+* 🛡️ **PhishDetect** – A C# backend system designed for automated security analysis of email headers, attachments, and URLs to detect potential threats.
+* 🧪 **Metaheuristic-Tester** – A desktop application for testing metaheuristic algorithms, featuring a C# .NET frontend and a Python FastAPI backend communicating asynchronously.
+* 🎓 **e-gradebook** – A university desktop application built using WPF and the MVVM architectural pattern, integrated with raw SQL queries.
+
+## ⚡ Outside of Coding
+When I'm not writing code or analyzing application logs, you can find me:
+- ♟️ Playing chess or solving logic puzzles.
+- 🏋️ Maintaining my physical fitness with a solid Full Body Workout routine.
+- 🐟 Taking care of my indoor aquarium.
+- ⚔️ Exploring the map of Skellige in *The Witcher 3*.
