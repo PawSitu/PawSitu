@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
-
-I am third-year student of Computer Science and Applied Mathematics at the Silesian University of Technology.
+I am Software Engineer Intern at Visa
+I am also fourth-year student of Computer Science and Applied Mathematics at the Silesian University of Technology.
 - 💡 Passionate about programming and software development  
 - 🎯 Interested in building useful and efficient applications  
 - 📚 Constantly learning new technologies  
@@ -25,6 +25,7 @@ I am third-year student of Computer Science and Applied Mathematics at the Siles
 ![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=grafana)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=sqlite)
 ![Adobe](https://img.shields.io/badge/-Adobe-black?style=for-the-badge&logo=adobe)
