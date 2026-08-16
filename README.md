@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 I am Software Engineer Intern at Visa
-I am also fourth-year student of Computer Science and Applied Mathematics at the Silesian University of Technology.
+and a fourth-year student of Computer Science and Applied Mathematics at the Silesian University of Technology.
 - 💡 Passionate about programming and software development  
 - 🎯 Interested in building useful and efficient applications  
 - 📚 Constantly learning new technologies  
