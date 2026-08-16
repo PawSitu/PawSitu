@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a Software Engineer Intern at **Visa** and a fourth-year student of Computer Science and Applied Mathematics at the Silesian University of Technology. 
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/pawe%C5%82-sitek-a406a531a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pawe%C5%82-sitek-a406a531a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pawelsitek487@gmail.com">
